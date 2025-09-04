@@ -1,6 +1,44 @@
-User Guide for EPAM Website Interaction
+# User Guide for EPAM Website
 
-1. Navigate to https://www.epam.com/
-2. Select "Services" from the header menu.
-3. Click the "Explore Our Client Work" link.
-4. Verify that the "Client Work" text is visible on the page.
+## Overview
+The EPAM website provides information about the company's services, client work, insights, and more. This guide will help you navigate through the website and understand its key features.
+
+## Navigation
+- **Home**: The main page of the website, providing an overview of EPAM's offerings and latest news.
+- **Services**: Detailed information about the various services offered by EPAM.
+- **Client Work**: Case studies and examples of EPAM's work with clients.
+- **Insights**: Articles, reports, and other resources providing insights into industry trends and EPAM's expertise.
+- **About**: Information about EPAM's history, leadership, and values.
+- **Careers**: Job opportunities and information about working at EPAM.
+- **Contact**: Contact information and forms for reaching out to EPAM.
+
+## Key Features
+- **Search**: A search bar at the top of the page allows you to quickly find information on the website.
+- **Language Selection**: The website is available in multiple languages. You can change the language using the selector at the top of the page.
+- **Social Media Links**: Links to EPAM's social media profiles are available at the bottom of the page.
+- **Newsletter Signup**: You can sign up for EPAM's newsletter to receive updates and insights directly to your inbox.
+
+## Services
+EPAM offers a wide range of services, including:
+- **Consulting**: Strategic consulting services to help businesses achieve their goals.
+- **Engineering**: Software engineering and development services.
+- **Design**: User experience and interface design services.
+- **Operations**: IT operations and support services.
+
+## Client Work
+EPAM has worked with numerous clients across various industries. The "Client Work" section showcases case studies and success stories, highlighting EPAM's expertise and impact.
+
+## Insights
+The "Insights" section provides valuable resources, including articles, reports, and whitepapers, to help you stay informed about industry trends and best practices.
+
+## About
+Learn more about EPAM's history, leadership team, and core values in the "About" section. This section also includes information about EPAM's commitment to corporate social responsibility.
+
+## Careers
+Explore job opportunities at EPAM and learn about the company's culture and benefits in the "Careers" section. You can search for open positions and apply directly through the website.
+
+## Contact
+The "Contact" section provides various ways to get in touch with EPAM, including contact forms, phone numbers, and office locations.
+
+## Conclusion
+This guide provides an overview of the key features and sections of the EPAM website. Use this guide to navigate the site and make the most of the information and resources available.
