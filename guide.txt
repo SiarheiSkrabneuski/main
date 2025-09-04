@@ -1,0 +1,43 @@
+Guide for EPAM Website:
+
+1. Home Page:
+   - URL: https://www.epam.com/
+   - Description: The home page of EPAM Systems, showcasing their services, client work, and company information.
+
+2. Services Page:
+   - URL: https://www.epam.com/services
+   - Description: A detailed overview of the services offered by EPAM Systems, including consulting, engineering, and design services.
+
+3. Client Work Page:
+   - URL: https://www.epam.com/client-work
+   - Description: A showcase of EPAM's client work, highlighting successful projects and case studies.
+
+4. About Page:
+   - URL: https://www.epam.com/about
+   - Description: Information about EPAM Systems, including their history, leadership team, and company values.
+
+5. Careers Page:
+   - URL: https://www.epam.com/careers
+   - Description: Job opportunities and career information at EPAM Systems, including open positions and employee benefits.
+
+6. Contact Page:
+   - URL: https://www.epam.com/contact
+   - Description: Contact information for EPAM Systems, including office locations and contact forms.
+
+7. Insights Page:
+   - URL: https://www.epam.com/insights
+   - Description: Articles, blogs, and insights from EPAM Systems on various industry topics and trends.
+
+8. News Page:
+   - URL: https://www.epam.com/about/news
+   - Description: Latest news and press releases from EPAM Systems.
+
+9. Events Page:
+   - URL: https://www.epam.com/about/events
+   - Description: Information about upcoming events and webinars hosted by EPAM Systems.
+
+10. Investors Page:
+    - URL: https://investors.epam.com/
+    - Description: Investor relations information for EPAM Systems, including financial reports and stock information.
+
+Note: This guide provides an overview of the main sections of the EPAM website. For more detailed information, please visit the respective pages.
