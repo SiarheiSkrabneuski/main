@@ -1,0 +1,56 @@
+# EPAM Website User Guide
+
+## Home Page
+- URL: https://www.epam.com/
+- Key Sections: Services, Industries, Insights, About, Careers, Contact Us
+
+## Services Page
+- URL: https://www.epam.com/services
+- Key Sections: Strategy, Engineering, Cloud, Data & Analytics, Artificial Intelligence, Cybersecurity, CX+, Client Work, Partners
+
+## Client Work Page
+- URL: https://www.epam.com/services/client-work
+- Key Sections: Case Studies, Industry Solutions, Client Testimonials, Contact Us
+
+## Navigation
+- Main navigation includes links to Services, Industries, Insights, About, Careers, and Contact Us.
+- Breadcrumb navigation is available for easy navigation back to previous pages.
+
+## Footer
+- Links to EPAM Continuum, Empathy Lab, Test IO, Reliable AI Lab, SolutionsHub, Investors, Open Source, Privacy Policy, PRC Privacy Policy, Cookie Policy, Applicant Privacy Notice, Web Accessibility, UK Modern Slavery Statement, Recruitment Fraud Disclaimer, Code of Ethical Conduct.
+- Social media links: LinkedIn, Facebook, Instagram, YouTube.
+- Subscription management link for email preferences.
+
+## Contact Us
+- URL: https://www.epam.com/about/who-we-are/contact
+- Provides a form for users to get in touch with EPAM.
+
+## Locations
+- Information about EPAM's global locations, categorized by regions: Americas, EMEA, APAC.
+
+## Additional Information
+- EPAM's commitment to supporting Ukraine with humanitarian aid.
+- EPAM's partnerships with over 150 leading technology companies.
+- Testimonials from clients across various industries.
+
+## Visual Elements
+- The website includes various visual elements such as images, videos, and icons to enhance user experience.
+- Case studies and client work are highlighted with images and links to detailed pages.
+
+## Accessibility
+- The website includes a web accessibility statement and ensures compliance with accessibility standards.
+
+## Policies
+- Links to various policies including privacy policy, cookie policy, and code of ethical conduct.
+
+## Social Media
+- Links to EPAM's social media profiles on LinkedIn, Facebook, Instagram, and YouTube.
+
+## Subscription
+- Users can manage and customize their email subscription preferences through the provided link.
+
+## Footer Information
+- The footer includes legal information and trademarks of EPAM Systems, Inc.
+
+## Explore More
+- Users can explore more about EPAM's services, client work, and partnerships through the provided links and navigation options.
