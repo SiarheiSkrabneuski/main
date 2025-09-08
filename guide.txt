@@ -1,0 +1,69 @@
+# EPAM Website User Guide
+
+## Homepage
+
+The homepage of EPAM website provides an overview of their services, industries, insights, and more. It includes sections such as:
+
+- **Main Navigation**: Contains links to Services, Industries, Insights, About, Careers, and Contact Us.
+- **Featured Stories**: Highlights case studies and reports.
+- **Customer Results**: Showcases the impact of EPAM's solutions.
+- **Partners**: Lists technology partners.
+- **News**: Displays recent news and updates.
+- **Footer**: Contains links to various policies, social media, and subscription management.
+
+## Navigation
+
+### Services
+
+To explore the services offered by EPAM, click on the "Services" link in the main navigation.
+
+### Industries
+
+To learn about the industries EPAM serves, click on the "Industries" link in the main navigation.
+
+### Insights
+
+To read insights and reports, click on the "Insights" link in the main navigation.
+
+### About
+
+To know more about EPAM, click on the "About" link in the main navigation.
+
+### Careers
+
+To explore career opportunities, click on the "Careers" link in the main navigation.
+
+### Contact Us
+
+To get in touch with EPAM, click on the "Contact Us" link in the main navigation.
+
+## Footer Links
+
+The footer contains links to various policies, social media, and subscription management.
+
+- **Investors**: Information for investors.
+- **Open Source**: Details about EPAM's open source contributions.
+- **Privacy Policy**: EPAM's privacy policy.
+- **PRC Privacy Policy**: Privacy policy for PRC.
+- **Cookie Policy**: Information about cookies used on the website.
+- **Applicant Privacy Notice**: Privacy notice for job applicants.
+- **Web Accessibility**: EPAM's web accessibility statement.
+- **UK Modern Slavery Statement**: Statement regarding modern slavery.
+- **Recruitment Fraud Disclaimer**: Disclaimer about recruitment fraud.
+- **Code of Ethical Conduct**: EPAM's code of ethical conduct.
+
+## Social Media Links
+
+EPAM is active on various social media platforms. The footer contains links to their profiles on LinkedIn, Facebook, Instagram, and YouTube.
+
+## Subscription Management
+
+Manage and customize your email subscription preferences by clicking on the link in the footer.
+
+## Additional Information
+
+EPAM's website also includes sections for news, featured stories, and customer results, showcasing their impact and collaborations with various partners.
+
+## Contact Information
+
+For further inquiries, you can visit the "Contact Us" page linked in the main navigation.
